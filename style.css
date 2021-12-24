@@ -1,0 +1,34 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+#carouselExampleSlidesOnly {
+    width: 100%;
+    height: 30%;
+}
+
+.section1 {
+    margin-top: 10px;
+}
+
+.card {
+    margin: auto !important;
+}
+
+#line {
+    color: rgb(0, 102, 255);
+    height: 3px;
+    width: 100%;
+}
+
+#map {
+    height: 600px;
+    max-width: 90%;
+    padding: 30px;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+}
